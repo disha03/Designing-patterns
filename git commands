@@ -1,0 +1,7 @@
+git commands
+
+git stash save "add: sniley"                            //save the stash
+git add file_name <----> git reset file_name
+git add -p        //can see all the changes 
+git reset--soft HEAD~1         //reset the commit if it is not pushed
+git log --oneline
